@@ -6,7 +6,7 @@ bootsrap_server = "localhost:9092";
 def run_kafka_server():
     
     # TODO get the json file path
-    input_file = "police-department-calls-for-service_light.json"
+    input_file = "police-department-calls-for-service.json"
 
     # TODO fill in blanks
     print(f"Producing topic {topic}")
